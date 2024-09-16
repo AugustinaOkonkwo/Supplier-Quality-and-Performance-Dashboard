@@ -28,3 +28,26 @@ The dashboard was built using a **Star Schema** data model for optimal performan
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/yourusername/supplier-quality-dashboard.git
+2. Open the Power BI `.pbix` file in Power BI Desktop.
+3. Connect the dashboard to your own dataset by importing the necessary CSV or database files.
+4. Refresh the data to see the visualizations update with your data.
+
+### Reports and Visuals
+The dashboard is divided into several key pages, each focusing on a different aspect of supplier quality:
+
+- **Overview**: Displays critical metrics such as total defect quantity, downtime hours, and financial impact.
+- **Vendor Performance**: Highlights the best and worst-performing vendors based on defect quantity and downtime.
+- **Plant Performance**: Analyzes plant locations to identify the most problematic sites.
+- **Material Performance**: Provides a breakdown of defects and downtime by material type.
+- **Downtime Impact**: Quantifies downtime costs and shows the highest cost periods.
+
+## Contributing
+Contributions are welcome! If you have ideas for improving this dashboard or extending its functionality, feel free to open a pull request or submit an issue.
+
+
+## Contact
+For any questions or support, please contact:
+
+- **Name**: Tina Okonkwo
+- **Email**: ritatynaokonkwo@gmail.com
+
